@@ -1,0 +1,172 @@
+[
+    {
+        "id": 101,
+        "name": "Mary Smith",
+        "isExperienced": true,
+        "contact": {
+            "phone": "0486 12 34 56",
+            "email": "mary.smith@example.com"
+        },
+        "address": {
+            "street": "Goudenstraat 1",
+            "city": "Antwerpen",
+            "postalCode": "2000",
+            "country": "België"
+        },
+        "bio": "Mary is een ervaren hondentrainer gespecialiseerd in Golden Retrievers en gehoorzaamheidstraining.",
+        "imageUrl": "assets/person5.jpg"
+    },
+    {
+        "id": 102,
+        "name": "Carla Harrison",
+        "isExperienced": false,
+        "contact": {
+            "phone": "0495 56 78 90",
+            "email": "carla.harrison@example.com"
+        },
+        "address": {
+            "street": "Puppylaan 2",
+            "city": "Gent",
+            "postalCode": "9000",
+            "country": "België"
+        },
+        "bio": "Carla heeft recent haar eerste hond geadopteerd en leert graag over hondenverzorging.",
+        "imageUrl": "assets/person4.jpg"
+    },
+    {
+        "id": 103,
+        "name": "Sarah Johnson",
+        "isExperienced": true,
+        "contact": {
+            "phone": "0478 87 65 43",
+            "email": "sarah.johnson@example.com"
+        },
+        "address": {
+            "street": "Blafstraat 3",
+            "city": "Brussel",
+            "postalCode": "1000",
+            "country": "België"
+        },
+        "bio": "Sarah heeft meerdere honden gehad en is vooral dol op behendigheidstraining.",
+        "imageUrl": "assets/person6.jpg"
+    },
+    {
+        "id": 104,
+        "name": "Kevin Brown",
+        "isExperienced": false,
+        "contact": {
+            "phone": "0499 43 21 56",
+            "email": "kevin.brown@example.com"
+        },
+        "address": {
+            "street": "Hondenweg 4",
+            "city": "Leuven",
+            "postalCode": "3000",
+            "country": "België"
+        },
+        "bio": "Kevin is nieuw in het hebben van een hond maar leert graag hoe hij zijn pup kan trainen.",
+        "imageUrl": "assets/person1.jpg"
+    },
+    {
+        "id": 105,
+        "name": "Emily White",
+        "isExperienced": true,
+        "contact": {
+            "phone": "0488 00 01 23",
+            "email": "emily.white@example.com"
+        },
+        "address": {
+            "street": "Potenplein 5",
+            "city": "Brugge",
+            "postalCode": "8000",
+            "country": "België"
+        },
+        "bio": "Emily heeft jarenlange ervaring als vrijwilliger in dierenasielen en het opvangen van zwerfhonden.",
+        "imageUrl": "assets/person9.jpg"
+    },
+    {
+        "id": 106,
+        "name": "Sarah Blue",
+        "isExperienced": true,
+        "contact": {
+            "phone": "+32 487 65 43 21",
+            "email": "sarah.blue@example.com"
+        },
+        "address": {
+            "street": "Windhondstraat 123",
+            "city": "Mechelen",
+            "postalCode": "2800",
+            "country": "België"
+        },
+        "bio": "Sarah heeft een passie voor windhonden en rent graag met ze door open velden.",
+        "imageUrl": "assets/person10.jpg"
+    },
+    {
+        "id": 107,
+        "name": "David King",
+        "isExperienced": true,
+        "contact": {
+            "phone": "+32 473 21 54 76",
+            "email": "david.king@example.com"
+        },
+        "address": {
+            "street": "Faraoweg 456",
+            "city": "Amsterdam",
+            "postalCode": "1012",
+            "country": "Nederland"
+        },
+        "bio": "David is een ervaren hondeneigenaar die graag de geschiedenis van het Faraohondenras bestudeert.",
+        "imageUrl": "assets/person3.jpg"
+    },
+    {
+        "id": 108,
+        "name": "Rebecca Gray",
+        "isExperienced": false,
+        "contact": {
+            "phone": "+32 485 74 12 96",
+            "email": "rebecca.gray@example.com"
+        },
+        "address": {
+            "street": "Teckelstraat 789",
+            "city": "Rotterdam",
+            "postalCode": "3011",
+            "country": "Nederland"
+        },
+        "bio": "Rebecca is een nieuwe hondeneigenaar die graag tijd doorbrengt met haar eigenzinnige Teckel.",
+        "imageUrl": "assets/person7.jpg"
+    },
+    {
+        "id": 109,
+        "name": "Michael Clark",
+        "isExperienced": true,
+        "contact": {
+            "phone": "+32 498 32 19 87",
+            "email": "michael.clark@example.com"
+        },
+        "address": {
+            "street": "Herdersweg 101",
+            "city": "Utrecht",
+            "postalCode": "3511",
+            "country": "Nederland"
+        },
+        "bio": "Michael is een ervaren herder die zijn Belgische Herder gebruikt voor behendigheid en werk.",
+        "imageUrl": "assets/person2.jpg"
+    },
+    {
+        "id": 110,
+        "name": "Linda Brown",
+        "isExperienced": false,
+        "contact": {
+            "phone": "+32 467 83 45 92",
+            "email": "linda.brown@example.com"
+        },
+        "address": {
+            "street": "Beaglelaan 102",
+            "city": "Eindhoven",
+            "postalCode": "5611",
+            "country": "Nederland"
+        },
+        "bio": "Linda brengt graag tijd door met haar Beagle, vooral tijdens wandelingen in de natuur.",
+        "imageUrl": "assets/person8.jpg"
+    }
+]
