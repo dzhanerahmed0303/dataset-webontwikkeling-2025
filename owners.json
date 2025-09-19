@@ -14,7 +14,7 @@
             "country": "België"
         },
         "bio": "Mary is een ervaren hondentrainer gespecialiseerd in Golden Retrievers en gehoorzaamheidstraining.",
-        "imageUrl": "assets/person5.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/dzhanerahmed0303/dataset-webontwikkeling-2025/refs/heads/main/assets/person5.jpg"
     },
     {
         "id": 102,
@@ -31,7 +31,7 @@
             "country": "België"
         },
         "bio": "Carla heeft recent haar eerste hond geadopteerd en leert graag over hondenverzorging.",
-        "imageUrl": "assets/person4.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/dzhanerahmed0303/dataset-webontwikkeling-2025/refs/heads/main/assets/person4.jpg"
     },
     {
         "id": 103,
@@ -48,7 +48,7 @@
             "country": "België"
         },
         "bio": "Sarah heeft meerdere honden gehad en is vooral dol op behendigheidstraining.",
-        "imageUrl": "assets/person6.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/dzhanerahmed0303/dataset-webontwikkeling-2025/refs/heads/main/assets/person6.jpg"
     },
     {
         "id": 104,
@@ -65,7 +65,7 @@
             "country": "België"
         },
         "bio": "Kevin is nieuw in het hebben van een hond maar leert graag hoe hij zijn pup kan trainen.",
-        "imageUrl": "assets/person1.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/dzhanerahmed0303/dataset-webontwikkeling-2025/refs/heads/main/assets/person1.jpg"
     },
     {
         "id": 105,
@@ -82,7 +82,7 @@
             "country": "België"
         },
         "bio": "Emily heeft jarenlange ervaring als vrijwilliger in dierenasielen en het opvangen van zwerfhonden.",
-        "imageUrl": "assets/person9.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/dzhanerahmed0303/dataset-webontwikkeling-2025/refs/heads/main/assets/person9.jpg"
     },
     {
         "id": 106,
@@ -99,7 +99,7 @@
             "country": "België"
         },
         "bio": "Sarah heeft een passie voor windhonden en rent graag met ze door open velden.",
-        "imageUrl": "assets/person10.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/dzhanerahmed0303/dataset-webontwikkeling-2025/refs/heads/main/assets/person10.jpg"
     },
     {
         "id": 107,
@@ -116,7 +116,7 @@
             "country": "Nederland"
         },
         "bio": "David is een ervaren hondeneigenaar die graag de geschiedenis van het Faraohondenras bestudeert.",
-        "imageUrl": "assets/person3.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/dzhanerahmed0303/dataset-webontwikkeling-2025/refs/heads/main/assets/person3.jpg"
     },
     {
         "id": 108,
@@ -133,7 +133,7 @@
             "country": "Nederland"
         },
         "bio": "Rebecca is een nieuwe hondeneigenaar die graag tijd doorbrengt met haar eigenzinnige Teckel.",
-        "imageUrl": "assets/person7.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/dzhanerahmed0303/dataset-webontwikkeling-2025/refs/heads/main/assets/person7.jpg"
     },
     {
         "id": 109,
@@ -150,7 +150,7 @@
             "country": "Nederland"
         },
         "bio": "Michael is een ervaren herder die zijn Belgische Herder gebruikt voor behendigheid en werk.",
-        "imageUrl": "assets/person2.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/dzhanerahmed0303/dataset-webontwikkeling-2025/refs/heads/main/assets/person2.jpg"
     },
     {
         "id": 110,
@@ -167,6 +167,7 @@
             "country": "Nederland"
         },
         "bio": "Linda brengt graag tijd door met haar Beagle, vooral tijdens wandelingen in de natuur.",
-        "imageUrl": "assets/person8.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/dzhanerahmed0303/dataset-webontwikkeling-2025/refs/heads/main/assets/person8.jpg"
     }
+
 ]
